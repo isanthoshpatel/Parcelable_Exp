@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Parcelable_Pass_ArraylistObject_To_Activity2'
